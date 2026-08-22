@@ -1,5 +1,4 @@
-ops = int(input("What options will you choose: \n1. Volts \n2. Resistance\n3. Watts\n4.Amps \n"))
-
+ops = int(input("What options will you choose: \n1. Volts \n2. Resistance\n3. Watts\n4.Amps \n5. Convertion ma -> a\n6. Convertion a -> ma\n"))
 
 match ops:
     case 1:
@@ -18,6 +17,12 @@ match ops:
         V = int(input("V:\n"))
         R = int(input("R:\n"))
         print("Amps:", V/R)
+    case 5:
+        ma = float(input("ma:\n"))
+        print(f"{ma}mA->{ma*1000}a")
+    case 6:
+        a = float(input("aa:\n"))
+        print(f"{a}A->{a/1000}mA")
 
 
     
