@@ -1,10 +1,15 @@
 # What did i learn today
 
 I = Amps
+
 R = Resistance
+
 V = Volts
+
 P = Watts
+
 1kR = 1000R
+
 1ma = 0.001A
 
 ## Notes
