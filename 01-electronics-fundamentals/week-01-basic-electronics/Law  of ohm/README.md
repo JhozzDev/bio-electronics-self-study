@@ -7,9 +7,13 @@ P = Watts
 1kR = 1000R
 1ma = 0.001A
 
+## Today's exercise
+A circuit has a voltage of 12 V and a resistance of 4 Ω. Calculate the current (I) flowing through the circuit.
+What is the current in amperes (A)? 
+
 ## Notes
 Volts mean "Electrical potential difference which pushes all the electrics charges"
-Ampers mean "Amount of electric charges which flow by time unit"
+Amperes mean "Amount of electric charges which flow by time unit"
 Resistances mean "Opposition to the current's flow"
 
 When the resistances are in  serie the total resistance(RT) is equal to all the resistances together. 
