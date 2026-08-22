@@ -14,7 +14,9 @@ P = Watts
 
 ## Notes
 Volts mean "Electrical potential difference which pushes all the electrics charges"
+
 Ampers mean "Amount of electric charges which flow by time unit"
+
 Resistances mean "Opposition to the current's flow"
 
 When the resistances are in  serie the total resistance(RT) is equal to all the resistances together. 
