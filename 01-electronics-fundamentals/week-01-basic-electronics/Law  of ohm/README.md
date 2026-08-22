@@ -23,8 +23,11 @@ When the circuit is in paralel the total Amp(IT) is equal to all the amp togethe
 IT = I1 + I2 + I3
 
 Voltage → push
+
 Current → flow
+
 Resistance → opposition
+
 Power → rate of energy consumption
 
 ### Volts
