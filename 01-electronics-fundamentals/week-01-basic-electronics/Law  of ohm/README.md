@@ -18,13 +18,9 @@ What is the current in amperes (A)?
 
 ## Notes
 Volts mean "Electrical potential difference which pushes all the electrics charges"
-<<<<<<< HEAD
+
 Amperes mean "Amount of electric charges which flow by time unit"
-=======
 
-Ampers mean "Amount of electric charges which flow by time unit"
-
->>>>>>> 2f62e0efd54e7c026e42999e8cb8a5f9f3d171b0
 Resistances mean "Opposition to the current's flow"
 
 When the resistances are in  serie the total resistance(RT) is equal to all the resistances together. 
