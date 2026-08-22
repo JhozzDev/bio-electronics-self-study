@@ -19,6 +19,7 @@ Resistances mean "Opposition to the current's flow"
 
 When the resistances are in  serie the total resistance(RT) is equal to all the resistances together. 
 RT = R1 + R2 + R3
+
 When the circuit is in paralel the total Amp(IT) is equal to all the amp together. 
 IT = I1 + I2 + I3
 
