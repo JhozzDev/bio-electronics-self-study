@@ -24,15 +24,9 @@ steps for finding the voltages of every part.
 ### [Voltage Drop]
 
 [It's the result of multiplying Amperes x the resistances you're using. 
+
 Voltage drop is the decrease in electrical potential across a component as current flows through it.]
 
-### [Concept 2]
-
-[Explanation]
-
-### [Concept 3]
-
-[Explanation]
 
 ---
 
