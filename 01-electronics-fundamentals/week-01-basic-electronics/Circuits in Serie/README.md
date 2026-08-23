@@ -12,10 +12,13 @@ Total resistance is equal to the sum of all resistances.
 
 steps for finding the voltages of every part.
 
-->Find Total resistance value
-->Find Amperes value 
-->Find voltage drop 
-->Find voltage of every part (V1,V2, V3)
+------>Find Total resistance value
+
+------>Find Amperes value 
+
+------>Find voltage drop 
+
+------>Find voltage of every part (V1,V2, V3)
 
 ---
 
@@ -33,10 +36,15 @@ Voltage drop is the decrease in electrical potential across a component as curre
 ## Formulas
 
 Rt = R1 + R2 + R3 + ...
+
 I = V/Rt
+
 V = I*R
+
 Vrx = I x Rx
 
 V1 = V - Vr1
+
 V2 = V1 - Vr2
+
 V3 = V2 - Vr3
