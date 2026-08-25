@@ -1,0 +1,49 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Cristian hiciano\Desktop\Projects\bio-electronics-self-study\01-electronics-fundamentals\week-01-basic-electronics\Voltage Divider\Draft1.net
+Start Time: Tue Aug 25 16:37:03 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Compress1stOrder = true
+Compress2ndOrder = true
+WARNING: Node n002 is floating.
+
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Singular matrix:  Check node n002
+   Iteration No. 2
+Singular matrix:  Check node n002
+   Iteration No. 1
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Singular matrix:  Check node n002
+   Iteration No. 4
+Singular matrix:  Check node n002
+   Iteration No. 1
+Singular matrix:  Check node n002
+   Iteration No. 1
+Singular matrix:  Check node n002
+   Iteration No. 1
+Singular matrix:  Check node n002
+   Iteration No. 1
+Singular matrix:  Check node n002
+   Iteration No. 1
+Singular matrix:  Check node n002
+   Iteration No. 1
+Singular matrix:  Check node n002
+   Iteration No. 1
+Starting source stepping with srcstepmethod=1
+Singular matrix:  Check node n002
+   Iteration No. 4
+Source stepping failed to find operating point. Use ".options srcsteps=0" to skip all source stepping.
+Starting Gmin stepping level 2
+Gmin stepping level 2 succeeded in finding the operating point.
+
+Total elapsed time: 0.269 seconds.
+
+Files loaded:
+C:\Users\Cristian hiciano\Desktop\Projects\bio-electronics-self-study\01-electronics-fundamentals\week-01-basic-electronics\Voltage Divider\Draft1.net
+C:\Users\Cristian hiciano\AppData\Local\LTspice\lib\cmp\standard.dio
+
