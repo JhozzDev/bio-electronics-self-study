@@ -24,6 +24,6 @@ Decreases, it's necessary lower than the lowest resistance
 
 Voltage = Vt = V1 = V2 = V3 (it doesn't change)
 
-Amperes = It = I1 + I2 + I3 (it divided in eery branch and the it's sum)
+Amperes = It = I1 + I2 + I3 (it's divided in every branch and then put it together)
 
 Total Resistance = RT = 1/r1+1/r2+1/r3... (It's lower than the lowest resistance)
