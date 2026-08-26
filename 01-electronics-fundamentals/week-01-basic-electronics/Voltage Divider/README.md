@@ -1,4 +1,4 @@
-# Day 02 — [Voltage Divider]
+
 
 **Topic:** [Voltage Divider]
 

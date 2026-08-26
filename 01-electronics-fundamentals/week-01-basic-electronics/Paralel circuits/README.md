@@ -1,4 +1,4 @@
-# Day 02 — [Circuits in ParalLel]
+
 
 **Topic:** [Circuits in Parallel]
 
