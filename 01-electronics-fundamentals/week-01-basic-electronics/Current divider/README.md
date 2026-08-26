@@ -12,9 +12,9 @@ In a **series circuit**, the current is the same through every component, while 
 
 To find the total current in a parallel circuit, we add the current of every branch:
 
-\[
+
 I_T = I_1 + I_2 + I_3
-\]
+
 
 ---
 
@@ -36,33 +36,30 @@ The branch with the **smaller resistance receives more current**.
 
 ### Ohm's Law
 
-\[
-I = \frac{V}{R}
-\]
+I = {V}/{R}
+
 
 ### Total Current
 
-\[
 I_T = I_1 + I_2 + I_3
-\]
+
 
 ### Current Divider
 
 For two resistors:
 
-\[
-I_1 = I_T\frac{R_2}{R_1 + R_2}
-\]
 
-\[
-I_2 = I_T\frac{R_1}{R_1 + R_2}
-\]
+I_1 = I_T({R_2}/{R_1 + R_2})
+
+
+I_2 = I_T({R_1}/{R_1 + R_2})
+
 
 ### Total Current Using Equivalent Resistance
 
-\[
-I_T = \frac{V}{R_T}
-\]
+
+I_T = {V}/{R_T}
+
 
 ---
 
@@ -78,26 +75,24 @@ I_T = \frac{V}{R_T}
 
 Given:
 
-- \(I_T = 10A\)
-- \(R_1 = 5\Omega\)
-- \(R_2 = 15\Omega\)
+- (I_T = 10A)
+- (R_1 = 5)
+- (R_2 = 15)
 
-Find \(I_1\):
+Find I_1:
 
-\[
-I_1 = I_T\frac{R_2}{R_1 + R_2}
-\]
 
-\[
-I_1 = 10\frac{15}{5 + 15}
-\]
+I_1 = I_T({R_2}/{R_1 + R_2})
 
-\[
+
+
+I_1 = 10({15}/{5 + 15})
+
+
+
 I_1 = 7.5A
-\]
+
 
 ### Answer
 
-\[
-\boxed{I_1 = 7.5A}
-\]
+I_1 = 7.5A
