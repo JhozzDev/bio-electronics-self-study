@@ -25,6 +25,6 @@ print(f"Current entering: {I1:.2f} A")
 print(f"Current leaving: {I2 + I3:.2f} A")
 
 if abs(I1 - (I2 + I3)) < 0.0001:
-    print("KCL is satisfied!")
+    print("satisfied")
 else:
-    print("KCL is NOT satisfied!")
+    print("not satisfied")
