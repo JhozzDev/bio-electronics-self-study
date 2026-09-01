@@ -40,3 +40,6 @@ $$
 * Apply KCL to each node.
 * Use Ohm's Law to express the currents.
 * Solve the equations to find the node voltages.
+
+
+this was confusing :C
