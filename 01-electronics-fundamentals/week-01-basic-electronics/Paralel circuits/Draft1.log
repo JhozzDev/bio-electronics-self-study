@@ -1,0 +1,18 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Cristian hiciano\Desktop\Projects\bio-electronics-self-study\01-electronics-fundamentals\week-01-basic-electronics\Paralel circuits\Draft1.net
+Start Time: Wed Aug 26 17:35:48 2026
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Compress1stOrder = true
+Compress2ndOrder = true
+WARNING: Node n002 is floating.
+
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.067 seconds.
+
+Files loaded:
+C:\Users\Cristian hiciano\Desktop\Projects\bio-electronics-self-study\01-electronics-fundamentals\week-01-basic-electronics\Paralel circuits\Draft1.net
+
