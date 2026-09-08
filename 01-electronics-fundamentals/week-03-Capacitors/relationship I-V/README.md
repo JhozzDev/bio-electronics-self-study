@@ -3,9 +3,7 @@
 ### Current-Voltage relationship
 It sets that the current is proportional to the voltage's derive multiplied by the capacitance over time.
 
-[
-I(t) = C\frac{dV(t)}{dt}
-]
+I(T) = C (D_V/D_T)
 
 Where I is current, C is capacitance, and dv/dt is the rate of change of voltage with respect to time.
 
