@@ -23,4 +23,3 @@ $$
 A\vec{I} = \vec{V}
 $$
 
-This allows Python to calculate the mesh currents automatically.
