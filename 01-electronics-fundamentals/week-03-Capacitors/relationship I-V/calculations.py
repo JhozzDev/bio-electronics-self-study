@@ -4,7 +4,7 @@ import sympy as sp
 
 C = 1
 T = sp.symbols("t")
-V = 5 ** T
+V = 5 * T ** 2
 
 
 dv_dv = sp.diff(V, T)
