@@ -1,0 +1,6 @@
+C:\Users\Cristian hiciano\Desktop\GitHub\bio-electronics-self-study\01-electronics-fundamentals\week-02-kirchhoff\Mallas analisis\Draft1.net(9): syntax error
+.meas AC C_eq mag 1/(2*pi*f*V(Entrada))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\Cristian hiciano\Desktop\GitHub\bio-electronics-self-study\01-electronics-fundamentals\week-02-kirchhoff\Mallas analisis\Draft1.net(10): Expected device instantiation or directive here.
+.tf 10 10
+^^^^^^^^^
