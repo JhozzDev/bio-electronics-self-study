@@ -37,13 +37,20 @@ $$
 V_L = 4(2) = 8V
 $$
 
-### Python
+### Coding part xd
 
-In Python, `np.gradient()` can approximate the rate of change of the current:
+In Python, `np.gradient()` (Basically divides all the values and then find the shared number) can approximate the rate of change of the current:
 
 ```python
 dI_dt = np.gradient(I, t)
 V = L * dI_dt
+```
+
+
+I really love this one becauses it generates numbers between the first value and the second, the third is the amount of numbers you want to place in.
+```python
+t = np.linspace(0, 4, 100)
+I = np.linspace(2, 10, 100)
 ```
 
 `np.gradient()` is useful when working with many current and time data points because it calculates the approximate rate of change at each point.
