@@ -60,7 +60,7 @@ def inductors_series(inductors):
 
 
 def inductors_parallel(inductors):
-    return 1 / sum(1 / L for L in inductors)
+    return 1 / sum(1 / c for c in inductors)
 ```
 
 ### Key Takeaway
