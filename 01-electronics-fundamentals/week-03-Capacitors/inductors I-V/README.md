@@ -1,5 +1,9 @@
 # Inductor Voltage
 
+
+<img width="778" height="676" alt="image" src="https://github.com/user-attachments/assets/120551fe-8b76-4d39-8625-41ef1027af8f" />
+
+
 ## What I Learned
 
 The voltage across an inductor is determined by how quickly the current changes over time.
@@ -53,8 +57,13 @@ t = np.linspace(0, 4, 100)
 I = np.linspace(2, 10, 100)
 ```
 
+
+
+
+
 `np.gradient()` is useful when working with many current and time data points because it calculates the approximate rate of change at each point.
 
 ### Key Idea
 
+> The formula in a nutshell is just: The Starting current minus the ending current divided by the time and then multiply by the
 > An inductor produces a larger voltage when the current changes more rapidly.
